@@ -4,7 +4,28 @@ A Telegram bot that provides information about Unicam courses and exams
 
 ## Features
 
+#### Comandi rapidi
+Triggerable by type '/'
 
+- /start - Reinizializza il bot
+- /info - Mostra le impostazioni ed i comandi supportati
+- /cancellami - Cancella la tua selezione
+- /show - Mostra la tua selezione corrente
+- /notificheon - Attiva notifiche giornaliere
+- /notificheoff - Disattiva notifiche giornaliere
+- /oggi - Mostra lezioni odierne
+- /domani - Mostra le lezioni di domani
+- /professori - Mostra la lista dei professori e loro informazioni
+			
+#### Comandi testuali
+Triggerable by type the exact messagge into the chat
+
+- Che lezioni ho oggi? - Mostra le lezioni odierne
+- Che lezioni ho domani? - Mostra le lezioni di domani
+- Che lezioni ho il martedì? - Mostra le lezioni per un giorno specifico
+- Mostra tutte le mie lezioni - Lista delle lezioni in settimana
+- Mostra tutti i miei esami - Lista degli esami e relativi professori
+- Info professori - Mostra la lista dei professori e loro informazioni
 
 ## About
 You can find this bot on Telegram searching @UnicamBot or following this link: 
